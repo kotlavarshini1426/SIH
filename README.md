@@ -1,1 +1,12 @@
 # SIH
+![Main page ](images/ss1.jpeg)
+![Main page(tel) ](images/ss2.jpeg)
+![Weather(tel) ](images/ss3.jpeg)
+![Weather output ](images/ss4.jpeg)
+![Profit analysis](images/ss5.jpeg)
+![Profit analysis output1](images/ss6.jpeg)
+![Profit analysis output2](images/ss7.jpeg)
+![Crop advisory](images/ss8.jpeg)
+![Fertilizers and pesticides](images/ss9.jpeg)
+![Fertilizers and pesticides output](images/ss10.jpeg)
+![Disease detection](images/ss11.jpeg)
