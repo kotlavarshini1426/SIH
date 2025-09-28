@@ -1,2 +1,5 @@
 ![main page](https://github.com/kotlavarshini1426/SIHVASAVI/blob/e1ed0a45c4fd5cd81a233c452a242ecc936a2305/IMAGES/ss1.jpeg)
 ![main page2(tel)](https://github.com/kotlavarshini1426/SIHVASAVI/blob/24321be14a5dbce46789f7fcffa8cd780c2ee9f5/IMAGES/ss2.jpeg)
+!Weather(tel)](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss3.jpeg)
+!![Weather output](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss4.jpeg)
+![Profit analysis](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss5.jpeg)
