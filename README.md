@@ -1,5 +1,12 @@
+#SIH
 ![main page](https://github.com/kotlavarshini1426/SIHVASAVI/blob/e1ed0a45c4fd5cd81a233c452a242ecc936a2305/IMAGES/ss1.jpeg)
 ![main page2(tel)](https://github.com/kotlavarshini1426/SIHVASAVI/blob/24321be14a5dbce46789f7fcffa8cd780c2ee9f5/IMAGES/ss2.jpeg)
-!Weather(tel)](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss3.jpeg)
+![Weather(tel)](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss3.jpeg)
 !![Weather output](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss4.jpeg)
 ![Profit analysis](https://github.com/kotlavarshini1426/SIHVASAVI/blob/59e094b37700401c71e76f83f7da19de9e6cffea/IMAGES/ss5.jpeg)
+![Profit analysis output1](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss6.jpeg)
+![Profit analysis output2](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss7.jpeg)
+![Crop advisory](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss8.jpeg)
+![Fertilizers and pesticides](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss9.jpeg)
+![Fertilizers and pesticides output](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss10.jpeg)
+![Disease detection](https://github.com/kotlavarshini1426/SIHVASAVI/blob/796bc6ffac46b30eb8b01a2f9e60f9b344ec3a28/IMAGES/ss11.jpeg)
